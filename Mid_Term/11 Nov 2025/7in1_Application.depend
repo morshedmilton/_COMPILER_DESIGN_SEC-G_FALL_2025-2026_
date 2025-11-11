@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1762309321source:e:\! don't sleep\compiler design\codes\_compiler_design_sec-g_fall_2025-2026_\7in1_application\7in1_application\main.cpp
+	<iostream>
+	<string>
+	"methods.h"
+
+1762309630e:\! don't sleep\compiler design\codes\_compiler_design_sec-g_fall_2025-2026_\7in1_application\7in1_application\methods.h
+	<iostream>
+	<string>
+
