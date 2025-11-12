@@ -1,10 +1,14 @@
-# Lab Task - 12 Nov 2025
+# Lab Task - 11 Nov 2025
 
-write program to read words from file and check each word is valid identifier or not
+make a menu driven program that combines all 7 functions into one application
 
-rules for identifier:
-- start with letter or _
-- can have letters, digits, underscore after first char
-- cant be empty
+features needed:
+1. numeric constant checker
+2. operator finder
+3. comment identifier  
+4. identifier validator
+5. array average
+6. min max finder
+7. name concatenation
 
-read from sample.txt file
+use functions and header files to organize code
