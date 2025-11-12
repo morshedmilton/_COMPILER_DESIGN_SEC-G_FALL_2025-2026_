@@ -1,0 +1,6 @@
+myVariable
+_is_valid
+9invalid
+another_var
+total-sum
+final
