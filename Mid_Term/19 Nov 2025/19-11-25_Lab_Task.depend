@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1764748962source:e:\! don't sleep\compiler design\codes\19-11-25\19-11-25_lab_task\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
